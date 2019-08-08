@@ -75,5 +75,5 @@ android {
 }
 
 dependencies {
-    implementation files('libs/alipaySdk-15.6.5-20190718211159-noUtdid.aar')
+    api files('libs/alipaySdk-15.6.5-20190718211159-noUtdid.aar')
 }
